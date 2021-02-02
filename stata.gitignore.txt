@@ -1,0 +1,5 @@
+# Data and graph and log files
+*.do
+*.smcl
+*.gph
+*.pdf
